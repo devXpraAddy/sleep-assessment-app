@@ -13,11 +13,9 @@ Table of Contents
 -   [Running the Application](#running-the-application)
 -   [Testing the Application](#testing-the-application)
 -   [Analytics](#analytics)
--   [Deployment](#deployment)
 -   [Contributing](#contributing)
 -   [License](#license)
 -   [Acknowledgements](#acknowledgements)
--   [Contact](#contact)
 
 * * * * *
 
