@@ -1,0 +1,80 @@
+/* Custom styles */
+
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  h2 {
+    margin-bottom: 30px;
+  }
+  
+  .form-control,
+  .form-select {
+    border-radius: 0;
+  }
+  
+  .btn {
+    border-radius: 0;
+  }
+  
+  .alert {
+    font-size: 1.2em;
+  }
+  
+  .container {
+    max-width: 600px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+  
+  .alert-info {
+    background-color: #d1ecf1;
+    color: #0c5460;
+  }
+  
+  .btn-primary,
+  .btn-success,
+  .btn-secondary {
+    width: 100%;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: none;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem !important;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem !important;
+  }
+  
+  .mb-3 {
+    margin-bottom: 1rem !important;
+  }
+  
+  .ms-auto {
+    margin-left: auto !important;
+  }
+  

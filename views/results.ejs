@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Assessment Results</title>
+    <!-- Bootstrap CSS and Custom CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+  </head>
+  <body>
+    <div class="container mt-5 text-center">
+      <h2>Assessment Results</h2>
+      <div class="alert alert-info mt-4">
+        <h4>Your sleep quality score is:</h4>
+        <h1><strong><%= score %></strong></h1>
+      </div>
+      <p class="lead">Thank you for completing the assessment!</p>
+      <a href="/sleep-assessment/dashboard" class="btn btn-secondary mt-3">
+        Back to Dashboard
+      </a>
+    </div>
+
+    <!-- Bootstrap JS (Optional if using interactive components) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
